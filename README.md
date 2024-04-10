@@ -2,7 +2,7 @@
 ## I'm a beginner C++ programmer
 
 ### Languages and Tools:
-![Qt Creator](https://img.shields.io/badge/Qt_Creator-you_like-green)
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator%20-green)
 
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
