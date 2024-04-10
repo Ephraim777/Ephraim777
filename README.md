@@ -1,4 +1,4 @@
-## Hi,my name is Nikita.
+## Hi, my name is Nikita.
 ## I'm a beginner C++ programmer
 
 ### Languages and Tools:
